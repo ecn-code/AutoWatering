@@ -13,7 +13,6 @@ import javax.inject.Inject;
  * Created by eliasibz on 31/10/16.
  */
 @SpringBootApplication
-@PropertySource({"classpath:application.properties"})
 public class Application {
 
 
